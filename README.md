@@ -7,7 +7,7 @@ Firstly, download the folder "DiDePT Proccessing", in this you will find the nec
 <img width="1266" height="372" alt="image" src="https://github.com/user-attachments/assets/1b50d64d-6995-482e-a5d9-80c15b75e181" />
 
 Please, set the different boxes as your will, and click on "Save settings". 
-2- Now, it will appear the image of the time you have selected for the circles detection,if you want to let the default configuration with the coordinates {x1,y1}:{70,90} (left upper corner) and {x2,y2}:{570,428} ( right bottom corner) only press "Confirm crop", but you can select an area holding the left click in the left upper corner until the right bottom corner. 
+2- Now, it will appear the image of the time you have selected for the circles detection,if you want to let the default configuration with the coordinates {x1, y1}:{70, 90} (left upper corner) and {x2, y2}:{570, 428} ( right bottom corner) only press "Confirm crop", but you can select an area holding the left click in the left upper corner until the right bottom corner. 
 
 <img width="797" height="690" alt="image" src="https://github.com/user-attachments/assets/71e1938e-eec1-4620-8181-1cf8c34ecee3" />
 
