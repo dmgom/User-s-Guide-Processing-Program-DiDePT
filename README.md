@@ -48,7 +48,7 @@ if you are going to select the area please consider that to obtain a good region
 
 <img width="1031" height="720" alt="image" src="https://github.com/user-attachments/assets/72cea982-4588-460d-8722-8d58efa23036" />
 
-10- A plot with the slopes as well as box plot will show.
+10- Next, it will be shown plots with the slopes,  sigmoidal fit as well as a box plot.
 
 <img width="1062" height="711" alt="image" src="https://github.com/user-attachments/assets/bfe19f37-4980-44bd-9e4d-5335de75fc13" />
 
