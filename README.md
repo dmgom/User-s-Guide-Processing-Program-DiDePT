@@ -3,7 +3,7 @@
 There are two options to run the program:
 1. Before running the program to install the language program Python 3.13.2 on the PC, which can be downloaded in: https://www.python.org/downloads/, and download the files in the folder DiDePT/DiDePT Analysis.
    or
-2. Download the file 'main_for_tif.exe' found in the "releases" with the tag "main for tif v1.0" in the left of the screen. You can use the folder 'photos_treatments_06052026' to do a first try, please put this file in the same folder as the executable 'main_for_tif.exe'.
+2. Download the file 'main_for_tif.exe' found in the "releases" with the tag "main for tif v1.0" in the right of the screen. You can use the folder 'photos_treatments_06052026' to do a first try, please put this file in the same folder as the executable 'main_for_tif.exe'.
 
 Firstly, download the folder "DiDePT Analysis", in this you will find the necessary python programs to start the program. Please, put your image folder inside "DiDePT Analysis" folder once you have the images. 
 
@@ -12,7 +12,7 @@ Firstly, download the folder "DiDePT Analysis", in this you will find the necess
 <img width="1266" height="372" alt="image" src="https://github.com/user-attachments/assets/1b50d64d-6995-482e-a5d9-80c15b75e181" />
 
 Please, set the different boxes as your will, and click on "Save settings". 
-2- Now, it will appear the image of the time you have selected for the circles detection,if you want to let the default configuration with the coordinates {x1, y1}:{70, 90} (left upper corner) and {x2, y2}:{570, 428} ( right bottom corner) only press "Confirm crop", but you can select an area holding the left click in the left upper corner until the right bottom corner. 
+2- Now, it will appear the image of the time you have selected for the tubes detection,if you want to let the default configuration with the coordinates {x1, y1}:{70, 90} (left upper corner) and {x2, y2}:{570, 428} ( right bottom corner) only press "Confirm crop", but you can select an area holding the left click in the left upper corner until the right bottom corner. 
 
 <img width="797" height="690" alt="image" src="https://github.com/user-attachments/assets/71e1938e-eec1-4620-8181-1cf8c34ecee3" />
 
@@ -20,7 +20,7 @@ Please, set the different boxes as your will, and click on "Save settings".
 
 <img width="797" height="687" alt="image" src="https://github.com/user-attachments/assets/4297c30a-fad9-41f4-9b1a-2ecdd93571c9" />
 
-3-Now, an image of the initial time and the final time will pop-up on the screen, this will help you to corroborate if the time you have selected for the circles detection is ideal.
+3-Now, an image of the initial time and the final time will pop-up on the screen, this will help you to corroborate if the time you have selected for the tubes detection is ideal.
 
 <img width="1187" height="777" alt="image" src="https://github.com/user-attachments/assets/0a56529b-32e1-4466-9121-7144abdf83a0" />
 
