@@ -24,10 +24,8 @@ Please, set the different boxes as your will, and click on "Save settings".
 
 <img width="1187" height="777" alt="image" src="https://github.com/user-attachments/assets/0a56529b-32e1-4466-9121-7144abdf83a0" />
 
-4-It will pop-up a message to confirm the amount of treatments you will use.
-
-<img width="281" height="132" alt="image" src="https://github.com/user-attachments/assets/6f50b8f3-86bc-4528-8a66-0a2f970df67b" />
-
+--<4-It will pop-up a message to confirm the amount of treatments you will use.<img width="281" height="132" alt="image" src="https://github.com/user-attachments/assets/6f50b8f3-86bc-4528-8a66-0a2f970df67b" />>--
+ 
 5-Select the cells corresponding to "Positive controls" (Blue), "Negative controls" (Red), and "Assays" (Green), and press "OK" when you are done or "Restart" if you want to remove your selections.
 
 <img width="1231" height="627" alt="image" src="https://github.com/user-attachments/assets/5fa2db17-1e22-4fd1-ad1e-5ae192727f88" />
